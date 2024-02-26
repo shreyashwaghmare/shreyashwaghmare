@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shreyashwaghmare
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web development and Frontend Frameworks 
+- 🌱 I’m currently learning React Js
+- 💞️ I’m looking to collaborate on designing web app with React js
 - 📫 How to reach me ...9697985597
 
 <!---
