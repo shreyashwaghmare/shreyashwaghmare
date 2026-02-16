@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @shreyashwaghmare
-- 👀 I’m interested in Web development and Frontend Frameworks 
-- 🌱 I’m currently learning React Js
-- 💞️ I’m looking to collaborate on designing web app with React js
-- 📫 How to reach me ...9697985597
+- 👋 Hi, I’m Shreyash Waghmare
+- 💻 Frontend Engineer | Angular | React | Next.js | TypeScript
+- 🏢 Ex-Associate Software Engineer at Rakuten India (3 years)
+- 🚀 Built enterprise CRM systems & modern React applications
+- 🧠 Strong in reusable architecture, performance optimization & unit testing
+- 📦 Currently building scalable web applications with ReactJS + Next.js + NodeJS + Tailwind
+- 🤝 Open to collaborating on React / Frontend projects
+- 📫 Reach me at: shreyashwaghmare22@gmail.com 
 
 <!---
 shreyashwaghmare/shreyashwaghmare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
